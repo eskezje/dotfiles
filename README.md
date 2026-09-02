@@ -1,5 +1,11 @@
 # dotfiles
 
+## visuals 
+
+![front page](nvim_visuals1.png)
+![syntax highlighting](nvim_visuals2.png)
+
+## gnu stow
 Use [GNU Stow](https://www.gnu.org/software/stow/manual/stow.html) for symlinks
 ```bash
 stow -d ~/dotfiles/shared -t ~ nvim
